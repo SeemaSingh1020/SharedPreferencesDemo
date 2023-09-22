@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SharedPreferencesDemo</string>
+    <string name="welcome">Welcome</string>
+    <string name="sign_up_with_email">Sign up with email</string>
+    <string name="login"><u><b>Log in</b></u></string>
+    <string name="by_continuing_you_agree_to_footy_s_terms_of_service_and_privacy_policy">By continuing you agree to Footy\'s <b>Terms of Service</b> and <b>Privacy Policy</b></string>
+</resources>
